@@ -1,0 +1,13 @@
+{
+      "colorScheme": "dark",
+      "model": "Gemini 3.5 Flash (High)",
+      "statusLine": {
+        "type": "",
+        "command": "",
+        "enabled": true
+      },
+      "trustedWorkspaces": [
+        "/Users/romin/antigravity-cli-projects",
+        "/Users/romin/agy-cli-projects"
+      ]
+    }
